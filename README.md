@@ -4,7 +4,7 @@
 
 # Jenkins Nedir ?
 
- Geliştirdiğimiz projeleri hızlı bir şekilde deploy yapmak, yazdığımız testleri kontrol etmek ve kod kalitesini sağlamak adına yaygın kullanılan CI/CD aralarından biridir.
+ Geliştirdiğimiz projeleri hızlı bir şekilde deploy etmek, yazdığımız testleri kontrol etmek ve kod kalitesini sağlamak adına yaygın kullanılan CI/CD aralarından biridir.
  
 ## Gereksinimler 
 - Ubuntu server
