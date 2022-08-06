@@ -38,7 +38,7 @@ Kurulum tamamlandıktan sonra aşağıdaki komutu çalıştırıp jenkins'in dur
 >sudo systemctl status jenkins
 
  Eğer "stopped" konumunda gözüküyorsa aşağıdaki komut ile başlatabiliriz.
- >suso systemctl start jenkins
+ >sudo systemctl start jenkins
 
 
 ## Jenkins'in Aktifleştirilmesi
